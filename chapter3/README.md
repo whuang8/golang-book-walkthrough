@@ -1,6 +1,7 @@
 ## Notes | Chapter 3 | Types
 
 - Go is [statically typed](https://en.wikipedia.org/wiki/Type_system#Static_type_checking)
+
 **Integers**
 - Integers represent numbers without decimal points
 - Go's integer types are `uint8` `uint16` `uint32` `uint64` `int8` `int16` `int32` `int64`
